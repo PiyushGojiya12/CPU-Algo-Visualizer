@@ -1,3 +1,3 @@
-This is a CPU algorithm visualizer
+#CPU algorithm visualizer
 <br>
-Here I have implemented several preemptive and non-preemptive scheduling algorithms like FCFS, SJF, SRTF, Round Robin and other priority based algorithms
+Here I have implemented several preemptive and non-preemptive CPU scheduling algorithms like FCFS, SJF, SRTF, Round Robin and other priority based algorithms. The visualization is done using gantt chart, pie chart and ouput table
