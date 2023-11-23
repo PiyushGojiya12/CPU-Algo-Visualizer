@@ -77,6 +77,8 @@ function solve() {
 
   for (i = 0; i < n; i++) {
     waiting_time[i] = turnaround_time[i] - burst_time[i];
+    if(waiting_time[i] == -1)
+      waiting_time = 0;
   }
 
   let sum1 = 0.0;
